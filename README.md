@@ -41,4 +41,6 @@ Contributions are welcome! To contribute, follow these steps:
 - Push to the branch: git push origin feature/your-feature
 - Create a pull request
 
-This project was created as a practice exercise for the Full Stack Open course.
+
+## Acknowledgements
+- This project was created as a practice exercise for the Full Stack Open course.
